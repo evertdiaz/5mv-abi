@@ -1,0 +1,6 @@
+*/node_modules
+*/package-lock.json
+env/
+denv/
+__pycache__/
+artifacts/
